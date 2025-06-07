@@ -1,50 +1,29 @@
-# University Projects
-
-A collection of my university programming projects, coursework, and learning exercises.  
-This repository showcases a variety of scripts, mini-applications, and coding tasks completed as part of my Computer Science and Cyber Security studies.
-
+# Python Projects for Beginners
 ---
 
-## What’s Inside
+This repository contains beginner-friendly Python projects.
 
-- Beginner to Intermediate Python Scripts
-- Project-based assignments
-- Practical exercises and demos
-- Useful code snippets for learning and revision
+## Structure
 
-### **Example Projects**
-- User Input Example
-- Dice Roller
-- Simple Calculator
-- Number Guessing Game
-- To-Do List App
-- ...and more as my course progresses!
+- **Basic_Examples/**  
+  Short, focused Python examples covering the basics: variables, lists, dictionaries, loops, functions, conditionals, string operations, and more.
 
----
+- **Basic_Projects/**  
+  Small CLI projects to help you learn and practice: calculator, password generator, number guessing, quiz game, stopwatch, unit converter, and many more.
 
-## Getting Started
+## How to Use
 
-1. **Clone the repository**
-    ```bash
-    git clone https://github.com/YOUR-USERNAME/Uni-Projects.git
-    cd Uni-Projects
+1. **Clone or download this repository.**  
+2. Make sure you have [Python 3](https://www.python.org/) installed.
+3. Open a terminal in this project directory.
+4. To run any script:
+    ```sh
+    python3 Basic_Examples/FILENAME.py
+    # or
+    python3 Basic_Projects/FILENAME.py
     ```
+    Replace `FILENAME.py` with the script you want to run.
 
-2. **Run any project**
-    ```bash
-    python3 <project_name>.py
-    ```
-    _Some projects may require additional packages. Check the top of each file for notes._
+5. For interactive scripts (ones that use `input()`), follow the prompts in your terminal.
 
----
-
-## Who is this for?
-
-- Students looking for clear, practical code examples
-- Self-learners practicing Python fundamentals
-- Anyone wanting to explore university-level programming tasks
-
----
-
-*Feel free to use, adapt, and learn from any script in this repo.  
-If you find it helpful, leave a star ⭐ or fork the project!*
+If you find it helpful, leave a star ⭐ or fork the project!
